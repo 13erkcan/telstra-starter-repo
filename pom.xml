@@ -56,26 +56,14 @@
     </dependencies>
 
     <build>
-<<<<<<< HEAD
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-maven-plugin</artifactId>
+                <configuration>
+                    <mainClass>au.com.telstra.simcardactivator.SimCardActivatorApplication</mainClass>
+                </configuration>
             </plugin>
         </plugins>
     </build>
-=======
-    <plugins>
-        <plugin>
-            <groupId>org.springframework.boot</groupId>
-            <artifactId>spring-boot-maven-plugin</artifactId>
-            <configuration>
-                <mainClass>au.com.telstra.simcardactivator.SimCardActivatorApplication</mainClass>
-            </configuration>
-        </plugin>
-    </plugins>
-</build>
-
->>>>>>> e6869041f5c13c5c69505ea86cbc8b0f5128deeb
-
 </project>

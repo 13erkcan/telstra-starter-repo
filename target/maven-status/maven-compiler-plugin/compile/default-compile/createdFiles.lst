@@ -1,8 +1,13 @@
-au\com\telstra\simcardactivator\foundation\SimCardActivation.class
+au\com\telstra\simcardactivator\ActuatorResponse.class
+au\com\telstra\simcardactivator\SimActivationRequest.class
 au\com\telstra\simcardactivator\foundation\SimCardActivationRepository.class
 au\com\telstra\simcardactivator\service\SimCardActivationService.class
+au\com\telstra\simcardactivator\SimCardActivatorApplication.class
+au\com\telstra\simcardactivator\foundation\SimCard.class
+au\com\telstra\simcardactivator\foundation\ActuationResult.class
+au\com\telstra\simcardactivator\SimActivationController.class
+au\com\telstra\simcardactivator\foundation\SimCardActivation.class
 au\com\telstra\simcardactivator\SimCardActivator.class
 au\com\telstra\simcardactivator\component\SimCardActuationHandler.class
 au\com\telstra\simcardactivator\component\SimCardActivationRestController.class
-au\com\telstra\simcardactivator\foundation\SimCard.class
-au\com\telstra\simcardactivator\foundation\ActuationResult.class
+au\com\telstra\simcardactivator\ActuatorRequest.class
